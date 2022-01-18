@@ -2985,6 +2985,9 @@ N:	Volkov Viacheslav <sv99@inbox.ru>
 F:	package/v4l2grab/
 F:	package/zbar/
 
+N:	Vyacheslav Bocharov <devel+buildroot@lexina.in>
+F:	package/amlogic-boot-fip/
+
 N:	Wade Berrier <wberrier@gmail.com>
 F:	package/ngrep/
 
